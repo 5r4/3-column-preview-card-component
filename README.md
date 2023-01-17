@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Github](https://5r4.github.io/3-column-preview-card-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/3column-preview-card-component-mv-P-fOPE2](https://www.frontendmentor.io/solutions/3column-preview-card-component-mv-P-fOPE2)
+- Live Site URL: [https://5r4.github.io/3-column-preview-card-component/](https://5r4.github.io/3-column-preview-card-component/)
 
 ## My process
 
